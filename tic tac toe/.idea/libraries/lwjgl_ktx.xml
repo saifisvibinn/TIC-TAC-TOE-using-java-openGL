@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lwjgl-ktx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx-natives-linux-arm32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx-natives-linux-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-ktx/lwjgl-ktx-natives-macos-arm64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

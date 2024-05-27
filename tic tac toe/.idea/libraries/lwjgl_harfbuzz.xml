@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lwjgl-harfbuzz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-natives-macos-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-natives-linux-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-harfbuzz/lwjgl-harfbuzz-natives-linux-arm32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

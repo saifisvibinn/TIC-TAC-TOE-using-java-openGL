@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lwjgl-vma">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-natives-macos-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-natives-linux-arm32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-natives-linux-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-vma/lwjgl-vma-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

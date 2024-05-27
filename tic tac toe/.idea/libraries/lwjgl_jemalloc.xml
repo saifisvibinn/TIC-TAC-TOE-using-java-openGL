@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lwjgl-jemalloc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-natives-macos-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-jemalloc/lwjgl-jemalloc-natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lwjgl-nanovg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-natives-linux-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-natives-linux-arm32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-natives-macos-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tictactoe/lib/jar/lwjgl-nanovg/lwjgl-nanovg-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
